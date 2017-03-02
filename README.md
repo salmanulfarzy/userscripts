@@ -2,16 +2,18 @@
 
 User scripts simplify many tasks in day to day intrenet life. Here are the list of userscripts that I use. Inorder for these scripts to work you shuold either have [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) in Firefox or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
-### 1. [GitHub Repo Size](https://github.com/sfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js
+### [GitHub Repo Size](https://github.com/sfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js)
 
 **Work in Progress**
 
-Adds repository size to GitHub's repository summary. 
+Adds repository size to GitHub's repository summary. Attempt to port [GitHub Repo Size](https://github.com/harshjv/github-repo-sizehttps://github.com/harshjv/github-repo-size) chrome extenstion to userscript. 
+
+[![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/sfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js)
 
 Author : [sfarzy](https://github.com/sfarzy)
 
 
-### 2. [GitHub News Fees Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
+### [GitHub News Fees Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
 
 Add filters for Github homepage news feed items
 
@@ -20,7 +22,7 @@ Add filters for Github homepage news feed items
 
 Author : [Jeroen van Warmerdam](https://github.com/jerone)
 
-### 3. [GitHub Notification Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)
+### [GitHub Notification Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)
 
 When clicking the notifications icon, displays notifications in a dropdown pane, without leaving the current page.  (Now also makes files in diff views collapsable.)
  
@@ -29,7 +31,7 @@ When clicking the notifications icon, displays notifications in a dropdown pane,
 
 Author : [Paul "Joey" Clark](https://github.com/joeytwiddle)
 
-### 4. [GitHub Extra Headers](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links)
+### [GitHub Extra Headers](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links)
 
 Adds "Stars" and "Watching" links, as well as your user profile link, to the header alongside the existing "Pull Requests", "Issues" and "Gist" links.
 
