@@ -41,3 +41,13 @@ Adds "Stars" and "Watching" links, as well as your user profile link, to the hea
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links/code)
 
 Author : [r-a-y](https://greasyfork.org/en/users/3121-r-a-y)
+
+
+### [Youtube Center Dev Build](https://github.com/YePpHa/YouTubeCenter)
+
+I believe there is no need for description :wink:
+
+[![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://github.com/YePpHa/YouTubeCenter/raw/master/dist/YouTubeCenter.user.js)
+[![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/YePpHa/YouTubeCenter/wiki/Developer-Version)
+
+Author : [Jeppe Rune Mortensen](https://github.com/YePpHa)
