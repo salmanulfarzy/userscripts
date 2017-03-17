@@ -13,7 +13,7 @@ Adds repository size to GitHub's repository summary. Attempt to port [GitHub Rep
 Author : [sfarzy](https://github.com/sfarzy)
 
 
-### [GitHub News Fees Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
+### [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
 
 Add filters for Github homepage news feed items
 
@@ -41,6 +41,20 @@ Adds "Stars" and "Watching" links, as well as your user profile link, to the hea
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links/code)
 
 Author : [r-a-y](https://greasyfork.org/en/users/3121-r-a-y)
+
+### [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
+A userscript that adds a repo issues count to the user repository & organization page (https://github.com/:user)
+
+- This script makes it easy to see the total number of open issues & pull requests for each repository.
+- It works on both user & organization pages.
+- It now includes pinned repositories, but only those repositories for the user. Pinned repos for other organizations will not show an issue count.
+
+![](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
+
+[![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-counts.user.js)
+[![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
+
+Author : [Rob Garrison](https://github.com/Mottie)
 
 
 ### [Youtube Center Dev Build](https://github.com/YePpHa/YouTubeCenter)
