@@ -56,6 +56,23 @@ A userscript that adds a repo issues count to the user repository & organization
 
 Author : [Rob Garrison](https://github.com/Mottie)
 
+### [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
+
+A userscript that adds a popup menu that allows toggling comments
+
+ - It only works on issue comment pages.
+ - Items include just about all timeline entries including title, label, milestone and other changes.
+ - There is also an option to toggle reactions and "+1" comments; it does include (any) emoji only comments and comments like "+1!!!!!!".
+ - Toggle comments from specific users by clicking on their avatar in the popup menu.
+ - Menu items that do not have content to hide will appear darker, except for the "Hide +1s" menu item (added v1.0.12).
+ - All menu settings are saved except for specific user that have their comments hidden
+
+![](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
+
+[![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-comments.user.js)
+[![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
+
+Author : [Rob Garrison](https://github.com/Mottie)
 
 ### [Youtube Center Dev Build](https://github.com/YePpHa/YouTubeCenter)
 
