@@ -13,19 +13,19 @@
 const API = 'https://api.github.com/repos/'
 const LI_TAG_ID = 'github-repo-size'
 
-function isTree (uri) {
-    var repoURI = uri.split('/')
+const isTree = (uri) => {
+    const repoURI = uri.split('/')
     return repoURI.length === 2 || repoURI[2] === 'tree'
 }
 
-function getRepoInfoURI (uri) {
-    var repoURI = uri.split('/')
+const getRepoInfoURI = (uri) => {
+    const  repoURI = uri.split('/')
     return repoURI[0] + '/' + repoURI[1]
 }
 
-// function getRepoContentURI (uri) {
-//     var repoURI = uri.split('/')
-//     var treeBranch = repoURI.splice(2, 2, 'contents')
+// const getRepoContentURI = (uri) => {
+//     const repoURI = uri.split('/')
+//     const treeBranch = repoURI.splice(2, 2, 'contents')
 
 //     if (treeBranch && treeBranch[1]) {
 //         repoURI.push('?ref=' + treeBranch[1])
@@ -34,7 +34,7 @@ function getRepoInfoURI (uri) {
 //     return repoURI.join('/')
 // }
 
-function getHumanReadableSizeObject (bytes) {
+const getHumanReadableSizeObject = (bytes) => {
     if (bytes === 0) {
         return {
             size: 0,
@@ -52,17 +52,17 @@ function getHumanReadableSizeObject (bytes) {
     }
 }
 
-function getHumanReadableSize (size) {
+const getHumanReadableSize = (size) => {
     if (size === null) return ''
 
-    var t = getHumanReadableSizeObject (size)
+    const t = getHumanReadableSizeObject (size)
     return t.size + '' + t.measure
 }
 
-function getSizeHTML (size) {
+const getSizeHTML = (size) => {
     const humanReadbleSize = getHumanReadableSizeObject(size)
     return '<li id="' + LI_TAG_ID + '">' +
-        '<a>'+
+        '<a>' +
         '<svg class="octicon octicon-database" aria-hidden="true" height="16" version="1.1" viewBox="0 0 12 16" width="12">' +
         '<path d="M6 15c-3.31 0-6-.9-6-2v-2c0-.17.09-.34.21-.5.67.86 3 1.5 5.79 1.5s5.12-.64 5.79-1.5c.13.16.21.33.21.5v2c0 1.1-2.69 2-6 2zm0-4c-3.31 0-6-.9-6-2V7c0-.11.04-.21.09-.31.03-.06.07-.13.12-.19C.88 7.36 3.21 8 6 8s5.12-.64 5.79-1.5c.05.06.09.13.12.19.05.1.09.21.09.31v2c0 1.1-2.69 2-6 2zm0-4c-3.31 0-6-.9-6-2V3c0-1.1 2.69-2 6-2s6 .9 6 2v2c0 1.1-2.69 2-6 2zm0-5c-2.21 0-4 .45-4 1s1.79 1 4 1 4-.45 4-1-1.79-1-4-1z"></path>' +
         '</svg>' +
@@ -74,7 +74,7 @@ function getSizeHTML (size) {
         '</li>'
 }
 
-function checkStatus (response) {
+const checkStatus = (response) => {
     if (response.status >= 200 && response.status < 300) {
         return response
     }
@@ -82,7 +82,7 @@ function checkStatus (response) {
     throw Error(`GitHub returned a bad status: ${response.status}`)
 }
 
-function parseJSON (response) {
+const parseJSON = (response) => {
     if (response) {
         return response.json()
     }
@@ -90,9 +90,9 @@ function parseJSON (response) {
     throw Error('Could not parse JSON')
 }
 
-function getAPIData (uri, callback) {
+const getAPIData = (uri, callback) => {
     const headerObj = {
-        'user-Agent': 'harshjv/github-repo-size'
+        'User-Agent': 'harshjv/github-repo-size'
     }
 
     const request = new Request(API + uri, {
@@ -106,17 +106,18 @@ function getAPIData (uri, callback) {
         .catch(e => console.error(e))
 }
 
+const getFileName = (text) => text.trim().split('/')[0]
 
-function checkForRepoPage () {
-    var repoURI = window.location.pathname.substring(1)
+const checkForRepoPage = () => {
+    const repoURI = window.location.pathname.substring(1)
 
     if(isTree(repoURI)) {
-        var ns = document.querySelector('ul.numbers-summary')
-        var liElem = document.getElementById(LI_TAG_ID)
-        // var tdElems = document.querySelector('span.github-repo-size-td')
+        const ns = document.querySelector('ul.numbers-summary')
+        const liElem = document.getElementById(LI_TAG_ID)
+        // const tdElems = document.querySelector('span.github-repo-size-td')
 
         if (ns && !liElem) {
-            getAPIData(getRepoInfoURI(repoURI), function(data) {
+            getAPIData(getRepoInfoURI(repoURI), (data) => {
                 if (data && data.size) {
                     ns.insertAdjacentHTML('beforeend', getSizeHTML(data.size * 1024))
                 }
