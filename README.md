@@ -44,7 +44,7 @@ When clicking the notifications icon, displays notifications in a dropdown pane,
 
 Author : [Paul "Joey" Clark]
 
-## [GitHub issue counts]
+## [GitHub Issue Count]
 
 Adds both open and closed issue count to user and organization pages (`https://github.com/:user`).
 
@@ -55,7 +55,7 @@ Adds both open and closed issue count to user and organization pages (`https://g
 
 Author : [Rob Garrison]
 
-## [GitHub issue comments]
+## [GitHub Issue Comment Filter]
 
 Adds a popup menu toggle comment page timeline activities. Like hide and group those annoting `+1`'s.
 
@@ -115,8 +115,8 @@ Author : [Jeppe Rune Mortensen]
 <!----------Scripts--------->
 [GitHub Repo Size]: https://github.com/salmanulfarzy/userscript
 [GitHub Notification Dropdown]: https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown
-[GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
-[GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
+[GitHub Issue Count]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
+[GitHub Issue Comment Filter]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Code Colors]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
 [GitHub Copy Code Snippet]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-copy-code-snippet
 [GitHub Issue Show Status]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-show-status
