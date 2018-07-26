@@ -97,6 +97,17 @@ Adds a color swatch next to color codes (`hex`, `rgb`, `rgba`, `hsl`, `hsla` and
 
 Author: [Rob Garrison]
 
+## [GitHub Copy Code Snippet]
+
+Adds _copy to clipboard_ button on hover of markdown made code snippets.
+
+![GitHub Copy Code Snippet](https://user-images.githubusercontent.com/136959/34900403-59897efc-f7c5-11e7-8a38-57bec1295305.gif)
+
+[![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-copy-code-snippet.user.js)
+[![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-copy-code-snippet.user.js)
+
+Author: [Rob Garrison]
+
 ## [Youtube Center Dev Build]
 
 I believe there is no need for description :wink:
@@ -119,6 +130,7 @@ Author : [Jeppe Rune Mortensen]
 [GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Code Colors]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
+[GitHub Copy Code Snippet]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-copy-code-snippet
 [Youtube Center Dev Build]: https://github.com/YePpHa/YouTubeCenter
 
 <!----------Badges--------->
