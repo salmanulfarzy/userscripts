@@ -66,11 +66,7 @@ Author : [r-a-y]
 
 ## [GitHub issue counts]
 
-A userscript that adds a repo issues count to the user repository & organization page `(https://github.com/:user)`
-
-- This script makes it easy to see the total number of open issues & pull requests for each repository.
-- It works on both user & organization pages.
-- It now includes pinned repositories, but only those repositories for the user. Pinned repos for other organizations will not show an issue count.
+Adds both open and closed issue count to user and organization pages (`https://github.com/:user`).
 
 ![GitHub issue counts](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
 
@@ -81,14 +77,7 @@ Author : [Rob Garrison]
 
 ## [GitHub issue comments]
 
-A userscript that adds a popup menu that allows toggling comments
-
- - It only works on issue comment pages.
- - Items include just about all timeline entries including title, label, milestone and other changes.
- - There is also an option to toggle reactions and "+1" comments; it does include (any) emoji only comments and comments like "+1!!!!!!".
- - Toggle comments from specific users by clicking on their avatar in the popup menu.
- - Menu items that do not have content to hide will appear darker, except for the "Hide +1s" menu item (added v1.0.12).
- - All menu settings are saved except for specific user that have their comments hidden
+Adds a popup menu toggle comment page timeline activities. Like hide and group those annoting `+1`'s.
 
 ![GitHub issue comments](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
 
