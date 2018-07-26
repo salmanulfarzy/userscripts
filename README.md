@@ -1,6 +1,32 @@
 # User Scrips
 
-User scripts simplify many tasks in day to day intrenet life. Here are the list of userscripts that I use. Inorder for these scripts to work you shuold either have [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) in Firefox or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+User scripts simplify many tasks in day to day intrenet life. Here are the list of userscripts that I use. Inorder for these scripts to work you should have anyu of the following
+
+| Userscript Manager | Supports |
+|:-----------------:|:-------|
+| Greasemonkey      | [![Fireofox][firefox-logo]][gm-firefox] |
+| Violentmonkey     | [![Fireofox][firefox-logo]][vm-firefox] [![Chrome][chrome-logo]][vm-chrome] [![Opera][opera-logo]][vm-opera] [![Maxthon][maxthon-logo]][vm-maxthon] |
+| Tampermonkey      | [![Fireofox][firefox-logo]][tm-firefox] [![Chrome][chrome-logo]][tm-chrome] [![Edge][edge-logo]][tm-edge] [![Safari][safari-logo]][tm-safari] [![Opera Beta][opera-beta-logo]][tm-opera-beta] |
+
+[chrome-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_24x24.png
+[firefox-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_24x24.png
+[edge-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_24x24.png
+[safari-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_24x24.png
+[opera-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_24x24.png
+[maxthon-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/maxthon/maxthon_24x24.png
+[opera-beta-logo]: https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera-beta/opera-beta_24x24.png
+
+[gm-firefox]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
+[vm-firefox]: https://addons.mozilla.org/firefox/addon/violentmonkey
+[vm-chrome]: https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
+[vm-opera]: https://github.com/violentmonkey/violentmonkey-oex
+[vm-maxthon]: https://github.com/violentmonkey/violentmonkey-mx
+[tm-firefox]: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+[tm-chrome]: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+[tm-edge]: https://www.microsoft.com/store/apps/9NBLGGH5162S
+[tm-safari]: https://safari.tampermonkey.net/tampermonkey.safariextz
+[tm-opera-beta]: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
+
 ## [GitHub Repo Size]
 
 [WIP] Adds repository size to GitHub's repository summary. Attempt to port [GitHub Repo Size](https://github.com/harshjv/github-repo-sizehttps://github.com/harshjv/github-repo-size) chrome extenstion to userscript.
