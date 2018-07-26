@@ -31,7 +31,7 @@ Author : [Paul "Joey" Clark]
 
 Adds "Stars" and "Watching" links, as well as your user profile link, to the header alongside the existing "Pull Requests", "Issues" and "Gist" links.
 
-![](https://i.imgur.com/JPYYaRF.png)
+![GitHub Extra Headers](https://i.imgur.com/JPYYaRF.png)
 
 [![Install]](https://greasyfork.org/scripts/3139-github-com-extra-header-links/code/Githubcom%20-%20Extra%20header%20links.user.js)
 [![Source]](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links/code)
@@ -46,7 +46,7 @@ A userscript that adds a repo issues count to the user repository & organization
 - It works on both user & organization pages.
 - It now includes pinned repositories, but only those repositories for the user. Pinned repos for other organizations will not show an issue count.
 
-![](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
+![GitHub issue counts](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-counts.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
@@ -64,7 +64,7 @@ A userscript that adds a popup menu that allows toggling comments
  - Menu items that do not have content to hide will appear darker, except for the "Hide +1s" menu item (added v1.0.12).
  - All menu settings are saved except for specific user that have their comments hidden
 
-![](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
+![GitHub issue comments](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-comments.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
