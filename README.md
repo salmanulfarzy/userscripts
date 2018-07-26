@@ -1,20 +1,15 @@
 # User Scrips
 
 User scripts simplify many tasks in day to day intrenet life. Here are the list of userscripts that I use. Inorder for these scripts to work you shuold either have [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) in Firefox or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+## [GitHub Repo Size]
+
+[WIP] Adds repository size to GitHub's repository summary. Attempt to port [GitHub Repo Size](https://github.com/harshjv/github-repo-sizehttps://github.com/harshjv/github-repo-size) chrome extenstion to userscript.
 
 [![Source]](https://github.com/salmanulfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js)
 
-### [GitHub Repo Size](https://github.com/sfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js)
-
-**Work in Progress**
-
-Adds repository size to GitHub's repository summary. Attempt to port [GitHub Repo Size](https://github.com/harshjv/github-repo-sizehttps://github.com/harshjv/github-repo-size) chrome extenstion to userscript. 
-
-
-
-
-### [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
 Author : [Salman]
+
+## [GitHub News Feed Filter]
 
 Add filters for Github homepage news feed items
 
@@ -23,7 +18,7 @@ Add filters for Github homepage news feed items
 
 Author : [Jeroen van Warmerdam]
 
-### [GitHub Notification Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)
+## [GitHub Notification Dropdown]
 
 When clicking the notifications icon, displays notifications in a dropdown pane, without leaving the current page.  (Now also makes files in diff views collapsable.)
 
@@ -32,7 +27,7 @@ When clicking the notifications icon, displays notifications in a dropdown pane,
 
 Author : [Paul "Joey" Clark]
 
-### [GitHub Extra Headers](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links)
+## [GitHub Extra Headers]
 
 Adds "Stars" and "Watching" links, as well as your user profile link, to the header alongside the existing "Pull Requests", "Issues" and "Gist" links.
 
@@ -43,8 +38,9 @@ Adds "Stars" and "Watching" links, as well as your user profile link, to the hea
 
 Author : [r-a-y]
 
-### [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
-A userscript that adds a repo issues count to the user repository & organization page (https://github.com/:user)
+## [GitHub issue counts]
+
+A userscript that adds a repo issues count to the user repository & organization page `(https://github.com/:user)`
 
 - This script makes it easy to see the total number of open issues & pull requests for each repository.
 - It works on both user & organization pages.
@@ -57,7 +53,7 @@ A userscript that adds a repo issues count to the user repository & organization
 
 Author : [Rob Garrison]
 
-### [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
+## [GitHub issue comments]
 
 A userscript that adds a popup menu that allows toggling comments
 
@@ -75,7 +71,7 @@ A userscript that adds a popup menu that allows toggling comments
 
 Author : [Rob Garrison]
 
-### [Youtube Center Dev Build](https://github.com/YePpHa/YouTubeCenter)
+## [Youtube Center Dev Build]
 
 I believe there is no need for description :wink:
 
@@ -87,6 +83,16 @@ Author : [Jeppe Rune Mortensen]
 <!------------------------>
 <!----------Links--------->
 <!------------------------>
+
+<!----------Scripts--------->
+[GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
+[GitHub Repo Size]: https://github.com/salmanulfarzy/userscript
+[GitHub News Feed Filter]: https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter
+[GitHub Notification Dropdown]: https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown
+[GitHub Extra Headers]: https://greasyfork.org/en/scripts/3139-github-com-extra-header-links
+[GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
+[GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
+[Youtube Center Dev Build]: https://github.com/YePpHa/YouTubeCenter
 
 <!----------Badges--------->
 [Install]: https://img.shields.io/badge/-Install-brightgreen.svg
