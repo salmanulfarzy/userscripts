@@ -86,6 +86,17 @@ Adds a popup menu toggle comment page timeline activities. Like hide and group t
 
 Author : [Rob Garrison]
 
+## [GitHub Code Colors]
+
+Adds a color swatch next to color codes (`hex`, `rgb`, `rgba`, `hsl`, `hsla` and all named colors) in comment preview and code pages.
+
+![GitHub Code Colors](https://cloud.githubusercontent.com/assets/136959/13907921/ca60e732-eec6-11e5-8226-80364365ff05.gif)
+
+[![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js)
+[![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-code-colors.user.js)
+
+Author: [Rob Garrison]
+
 ## [Youtube Center Dev Build]
 
 I believe there is no need for description :wink:
@@ -107,6 +118,7 @@ Author : [Jeppe Rune Mortensen]
 [GitHub Extra Headers]: https://greasyfork.org/en/scripts/3139-github-com-extra-header-links
 [GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
+[GitHub Code Colors]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
 [Youtube Center Dev Build]: https://github.com/YePpHa/YouTubeCenter
 
 <!----------Badges--------->
