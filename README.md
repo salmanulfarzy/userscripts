@@ -51,7 +51,7 @@ Adds both open and closed issue count to user and organization pages (`https://g
 ![GitHub issue counts](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-counts.user.js)
-[![Source]](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
+[![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-counts.user.js)
 
 Author : [Rob Garrison]
 
@@ -62,7 +62,7 @@ Adds a popup menu toggle comment page timeline activities. Like hide and group t
 ![GitHub issue comments](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-comments.user.js)
-[![Source]](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
+[![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-comments.user.js)
 
 Author : [Rob Garrison]
 
@@ -113,7 +113,6 @@ Author : [Jeppe Rune Mortensen]
 <!------------------------>
 
 <!----------Scripts--------->
-[GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Repo Size]: https://github.com/salmanulfarzy/userscript
 [GitHub Notification Dropdown]: https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown
 [GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
