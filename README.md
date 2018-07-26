@@ -108,6 +108,17 @@ Adds _copy to clipboard_ button on hover of markdown made code snippets.
 
 Author: [Rob Garrison]
 
+## [GitHub Issue Show Status]
+
+Adds a sticky label on top of sidebar showing state (`open`, `closed` or `merged`) of issue and pull request.
+
+![GitHub Issue Show Status](https://cloud.githubusercontent.com/assets/136959/26712526/dee3c700-472c-11e7-9128-5573cd137f46.gif)
+
+[![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-show-status.user.js)
+[![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-show-status.user.js)
+
+Author: [Rob Garrison]
+
 ## [Youtube Center Dev Build]
 
 I believe there is no need for description :wink:
@@ -131,6 +142,7 @@ Author : [Jeppe Rune Mortensen]
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Code Colors]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
 [GitHub Copy Code Snippet]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-copy-code-snippet
+[GitHub Issue Show Status]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-show-status
 [Youtube Center Dev Build]: https://github.com/YePpHa/YouTubeCenter
 
 <!----------Badges--------->
