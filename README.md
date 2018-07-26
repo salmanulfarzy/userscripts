@@ -48,56 +48,76 @@ Author : [Paul "Joey" Clark]
 
 Adds both open and closed issue count to user and organization pages (`https://github.com/:user`).
 
-![GitHub issue counts](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
-
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-counts.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-counts.user.js)
 
 Author : [Rob Garrison]
 
+<details>
+<summary>Preview</summary>
+
+![GitHub issue counts](https://cloud.githubusercontent.com/assets/136959/21301601/af93bbac-c574-11e6-88d4-691d66a04f21.gif)
+</details>
+
 ## [GitHub Issue Comment Filter]
 
 Adds a popup menu toggle comment page timeline activities. Like hide and group those annoting `+1`'s.
-
-![GitHub issue comments](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-comments.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-comments.user.js)
 
 Author : [Rob Garrison]
 
+<details>
+<summary>Preview</summary>
+
+![GitHub issue comments](https://cloud.githubusercontent.com/assets/136959/14270698/465e0108-fab6-11e5-9932-b7de2cbdc36d.gif)
+</details>
+
 ## [GitHub Code Colors]
 
 Adds a color swatch next to color codes (`hex`, `rgb`, `rgba`, `hsl`, `hsla` and all named colors) in comment preview and code pages.
-
-![GitHub Code Colors](https://cloud.githubusercontent.com/assets/136959/13907921/ca60e732-eec6-11e5-8226-80364365ff05.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-code-colors.user.js)
 
 Author: [Rob Garrison]
 
+<details>
+<summary>Preview</summary>
+
+![GitHub Code Colors](https://cloud.githubusercontent.com/assets/136959/13907921/ca60e732-eec6-11e5-8226-80364365ff05.gif)
+</details>
+
 ## [GitHub Copy Code Snippet]
 
 Adds _copy to clipboard_ button on hover of markdown made code snippets.
-
-![GitHub Copy Code Snippet](https://user-images.githubusercontent.com/136959/34900403-59897efc-f7c5-11e7-8a38-57bec1295305.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-copy-code-snippet.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-copy-code-snippet.user.js)
 
 Author: [Rob Garrison]
 
+<details>
+<summary>Preview</summary>
+
+![GitHub Copy Code Snippet](https://user-images.githubusercontent.com/136959/34900403-59897efc-f7c5-11e7-8a38-57bec1295305.gif)
+</details>
+
 ## [GitHub Issue Show Status]
 
 Adds a sticky label on top of sidebar showing state (`open`, `closed` or `merged`) of issue and pull request.
-
-![GitHub Issue Show Status](https://cloud.githubusercontent.com/assets/136959/26712526/dee3c700-472c-11e7-9128-5573cd137f46.gif)
 
 [![Install]](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-show-status.user.js)
 [![Source]](https://github.com/Mottie/GitHub-userscripts/blob/master/github-issue-show-status.user.js)
 
 Author: [Rob Garrison]
+
+<details>
+<summary>Preview</summary>
+
+![GitHub Issue Show Status](https://cloud.githubusercontent.com/assets/136959/26712526/dee3c700-472c-11e7-9128-5573cd137f46.gif)
+</details>
 
 ## [Youtube Center Dev Build]
 
