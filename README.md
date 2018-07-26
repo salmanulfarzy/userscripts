@@ -35,15 +35,6 @@ User scripts simplify many tasks in day to day intrenet life. Here are the list 
 
 Author : [Salman]
 
-## [GitHub News Feed Filter]
-
-Add filters for Github homepage news feed items
-
-[![Install]](https://github.com/jerone/UserScripts/raw/master/Github_News_Feed_Filter/Github_News_Feed_Filter.user.js)
-[![Source]](https://github.com/jerone/UserScripts/blob/master/Github_News_Feed_Filter/Github_News_Feed_Filter.user.js)
-
-Author : [Jeroen van Warmerdam]
-
 ## [GitHub Notification Dropdown]
 
 When clicking the notifications icon, displays notifications in a dropdown pane, without leaving the current page.  (Now also makes files in diff views collapsable.)
@@ -124,7 +115,6 @@ Author : [Jeppe Rune Mortensen]
 <!----------Scripts--------->
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Repo Size]: https://github.com/salmanulfarzy/userscript
-[GitHub News Feed Filter]: https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter
 [GitHub Notification Dropdown]: https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown
 [GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
@@ -139,7 +129,6 @@ Author : [Jeppe Rune Mortensen]
 
 <!----------Authors--------->
 [Salman]: https://github.com/salmanulfarzy
-[Jeroen van Warmerdam]: https://github.com/jerone
 [Paul "Joey" Clark]: https://github.com/joeytwiddle
 [Rob Garrison]: https://github.com/Mottie
 [Jeppe Rune Mortensen]: https://github.com/YePpHa
