@@ -10,17 +10,17 @@ Adds repository size to GitHub's repository summary. Attempt to port [GitHub Rep
 
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/sfarzy/userscripts/blob/master/GitHub_Repo_Size.user.js)
 
-Author : [sfarzy](https://github.com/sfarzy)
 
 
 ### [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter) 
+Author : [Salman]
 
 Add filters for Github homepage news feed items
 
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://github.com/jerone/UserScripts/raw/master/Github_News_Feed_Filter/Github_News_Feed_Filter.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/jerone/UserScripts/blob/master/Github_News_Feed_Filter/Github_News_Feed_Filter.user.js)
 
-Author : [Jeroen van Warmerdam](https://github.com/jerone)
+Author : [Jeroen van Warmerdam]
 
 ### [GitHub Notification Dropdown](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown)
 
@@ -29,7 +29,7 @@ When clicking the notifications icon, displays notifications in a dropdown pane,
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://openuserjs.org/install/joeytwiddle/Github_Notifications_Dropdown.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown/source)
 
-Author : [Paul "Joey" Clark](https://github.com/joeytwiddle)
+Author : [Paul "Joey" Clark]
 
 ### [GitHub Extra Headers](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links)
 
@@ -40,7 +40,7 @@ Adds "Stars" and "Watching" links, as well as your user profile link, to the hea
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://greasyfork.org/scripts/3139-github-com-extra-header-links/code/Githubcom%20-%20Extra%20header%20links.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links/code)
 
-Author : [r-a-y](https://greasyfork.org/en/users/3121-r-a-y)
+Author : [r-a-y]
 
 ### [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
 A userscript that adds a repo issues count to the user repository & organization page (https://github.com/:user)
@@ -54,7 +54,7 @@ A userscript that adds a repo issues count to the user repository & organization
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-counts.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts)
 
-Author : [Rob Garrison](https://github.com/Mottie)
+Author : [Rob Garrison]
 
 ### [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
 
@@ -72,7 +72,7 @@ A userscript that adds a popup menu that allows toggling comments
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-issue-comments.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments)
 
-Author : [Rob Garrison](https://github.com/Mottie)
+Author : [Rob Garrison]
 
 ### [Youtube Center Dev Build](https://github.com/YePpHa/YouTubeCenter)
 
@@ -81,4 +81,16 @@ I believe there is no need for description :wink:
 [![Install](https://img.shields.io/badge/-Install-brightgreen.svg)](https://github.com/YePpHa/YouTubeCenter/raw/master/dist/YouTubeCenter.user.js)
 [![Source](https://img.shields.io/badge/-source-blue.svg)](https://github.com/YePpHa/YouTubeCenter/wiki/Developer-Version)
 
-Author : [Jeppe Rune Mortensen](https://github.com/YePpHa)
+Author : [Jeppe Rune Mortensen]
+
+<!------------------------>
+<!----------Links--------->
+<!------------------------>
+
+<!----------Authors--------->
+[Salman]: https://github.com/salmanulfarzy
+[Jeroen van Warmerdam]: https://github.com/jerone
+[Paul "Joey" Clark]: https://github.com/joeytwiddle
+[r-a-y]: https://greasyfork.org/en/users/3121-r-a-y
+[Rob Garrison]: https://github.com/Mottie
+[Jeppe Rune Mortensen]: https://github.com/YePpHa
