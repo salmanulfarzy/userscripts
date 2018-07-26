@@ -53,17 +53,6 @@ When clicking the notifications icon, displays notifications in a dropdown pane,
 
 Author : [Paul "Joey" Clark]
 
-## [GitHub Extra Headers]
-
-Adds "Stars" and "Watching" links, as well as your user profile link, to the header alongside the existing "Pull Requests", "Issues" and "Gist" links.
-
-![GitHub Extra Headers](https://i.imgur.com/JPYYaRF.png)
-
-[![Install]](https://greasyfork.org/scripts/3139-github-com-extra-header-links/code/Githubcom%20-%20Extra%20header%20links.user.js)
-[![Source]](https://greasyfork.org/en/scripts/3139-github-com-extra-header-links/code)
-
-Author : [r-a-y]
-
 ## [GitHub issue counts]
 
 Adds both open and closed issue count to user and organization pages (`https://github.com/:user`).
@@ -137,7 +126,6 @@ Author : [Jeppe Rune Mortensen]
 [GitHub Repo Size]: https://github.com/salmanulfarzy/userscript
 [GitHub News Feed Filter]: https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter
 [GitHub Notification Dropdown]: https://openuserjs.org/scripts/joeytwiddle/Github_Notifications_Dropdown
-[GitHub Extra Headers]: https://greasyfork.org/en/scripts/3139-github-com-extra-header-links
 [GitHub issue counts]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts
 [GitHub issue comments]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments
 [GitHub Code Colors]: https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors
@@ -153,6 +141,5 @@ Author : [Jeppe Rune Mortensen]
 [Salman]: https://github.com/salmanulfarzy
 [Jeroen van Warmerdam]: https://github.com/jerone
 [Paul "Joey" Clark]: https://github.com/joeytwiddle
-[r-a-y]: https://greasyfork.org/en/users/3121-r-a-y
 [Rob Garrison]: https://github.com/Mottie
 [Jeppe Rune Mortensen]: https://github.com/YePpHa
